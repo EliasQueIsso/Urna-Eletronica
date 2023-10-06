@@ -28,3 +28,4 @@ if (eleitor2 > 4):
 else:
     eleitor2 = ''
 
+print(eleitor1,elemento)
